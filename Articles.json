@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "article1",
+    "imageUrl": "https://reactnative.dev/img/tiny_logo.png",
+    "content": "gjgjhg jhgjhjg jgjhgj j jhgj hg jgh jhgjhgj hjjg jhgjhgj h jghj hg jhgjhg jhg"
+  },
+  {
+    "id": "2",
+    "name": "article2",
+    "imageUrl": "https://reactnative.dev/img/tiny_logo.png",
+    "content": "gjgjhg jhgjhjg jgjhgj j jhgj hg jgh jhgjhgj hjjg jhgjhgj h jghj hg jhgjhg jhg"
+  },
+  {
+    "id": "3",
+    "name": "article3",
+    "imageUrl": "https://reactnative.dev/img/tiny_logo.png",
+    "content": "gjgjhg jhgjhjg jgjhgj j jhgj hg jgh jhgjhgj hjjg jhgjhgj h jghj hg jhgjhg jhg"
+  }
+]
